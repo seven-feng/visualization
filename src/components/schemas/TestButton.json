@@ -1,0 +1,25 @@
+{
+    "props": [
+        {
+            "title": "名称",
+            "name": "name",
+            "type": "string"
+        },
+        {
+            "title": "x轴坐标",
+            "name": "x",
+            "type": "number"
+        },
+        {
+            "title": "y轴坐标",
+            "name": "y",
+            "type": "number"
+        }
+    ],
+    "models": {
+        "name": "测试按钮",
+        "x": 0,
+        "y": 0
+    }
+}
+  
